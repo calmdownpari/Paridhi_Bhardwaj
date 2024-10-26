@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paridhi Bhardwaj</h1>
-<h3 align="center">B. Tech'27 @MAKAUT, WB || Electronics Engineering via VLSI Technology and Design ||Learning WEB Development || Coding Enthusiast || DSA</h3>
+<h3 align="center">B. Tech'27 @MAKAUT, WB || Electronics Engineering via VLSI Technology and Design ||Learning APP Development || Coding Enthusiast || DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calmdownpari&label=Profile%20views&color=0e75b6&style=flat" alt="calmdownpari" /> </p>
 
